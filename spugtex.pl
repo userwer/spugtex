@@ -164,6 +164,10 @@ our %symbols = (
 	'varpropto'  => '∝', 
 	'therefore'  => '∴',
 	'because'    => '∵', 
+	'squared'    => '²',
+	'reals'      => 'ℝ',
+	'iimath'     => '₂',
+	'naught'     => '₀',
 );
 
 sub convert {
