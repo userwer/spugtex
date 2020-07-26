@@ -168,6 +168,7 @@ our %symbols = (
 	'reals'      => 'ℝ',
 	'iimath'     => '₂',
 	'naught'     => '₀',
+	'integral'	 => '∫',
 );
 
 sub convert {
